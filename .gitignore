@@ -1,0 +1,6 @@
+#ignorando los .class
+layers/**/.class
+# Ignorando Todos los archivos acabados en lock.json del repositorio 
+lock.jason
+#Todo lo que contenga la carpeta node_modules dentro de src sin contar la carpeta misma 
+src/node_modules
